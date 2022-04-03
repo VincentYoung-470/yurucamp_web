@@ -1,7 +1,7 @@
 html,
 body {
     /* 此段語法表示讓返回頁頂的速度更滑順，產生些微動畫回朔 */
-	scroll-behavior: smooth;
+/* 	scroll-behavior: smooth; */
 }
 body{
     /* 引入網頁圖片來源 */
